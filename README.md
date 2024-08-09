@@ -29,7 +29,7 @@ Thank you for visiting, and I look forward to engaging with fellow enthusiasts a
   </a>
 
   <a href="mailto:soumyadeepghosh57@gmail.com">
-    <img src="assets/mail.gif" height="55" width="55" alt="Email">
+    <img src="assets/red-mail.gif" height="55" width="55" alt="Email">
   </a>
 
   <a href="https://leetcode.com/u/soumyadeepghoshGG/">
